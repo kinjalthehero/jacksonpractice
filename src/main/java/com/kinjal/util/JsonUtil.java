@@ -1,6 +1,7 @@
 package com.kinjal.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.kinjal.main.Car;
 
 import java.io.File;
 import java.io.IOException;
